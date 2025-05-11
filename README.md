@@ -46,7 +46,7 @@ Here you'll find a collection of projects that showcase my abilities in:
 I'm open to freelance opportunities, collaborations, or just a chat about data.\
 Find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- https://www.linkedin.com/in/oyeyemi-adeyemi-153829359/
 - 📧 oyeyemi.adeyemi198@gmail.com
 
 ---
