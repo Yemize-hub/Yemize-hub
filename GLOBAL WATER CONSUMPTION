@@ -1,0 +1,25 @@
+🌍 Global Water Consumption Dashboard – Power BI
+
+This interactive dashboard presents a detailed analysis of global water consumption using data sourced from Kaggle. It visualizes how water is used across different countries and sectors, helping users identify patterns, inefficiencies, and sustainability concerns.
+
+🔎 Dashboard Features:
+Usage Breakdown by sector: Agriculture, Industry, Domestic
+
+Top Water-Consuming Countries highlighted for comparison
+
+Regional Filters for focused insights
+
+Time Trends showing changes in consumption over the years
+
+Clean, user-friendly layout with interactive visuals for exploration
+
+🎯 Objective:
+To raise awareness about water resource usage globally and support informed decision-making in sustainability and environmental planning.
+
+🛠 Tools Used:
+Power BI for data modeling, DAX, and visualizations
+
+Excel for data cleaning
+
+Kaggle as the data source
+
